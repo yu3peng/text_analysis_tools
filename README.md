@@ -1,7 +1,10 @@
 # text_analysis_tools
 > 文本分析工具包, 可以直接运行 “python examples.py” 进行样例测试。
 
-https://www.katacoda.com/courses/ubuntu/playground
+## https://www.katacoda.com/courses/ubuntu/playground
+### sudo rm /usr/bin/python3
+### sudo ln -s /usr/bin/python3.7 /usr/bin/python3
+### python3 -m pip install --upgrade pip
 
 git clone https://github.com/yu3peng/text_analysis_tools.git
 

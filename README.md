@@ -1,6 +1,12 @@
 # text_analysis_tools
 > 文本分析工具包, 可以直接运行 “python examples.py” 进行样例测试。
 
+https://www.katacoda.com/courses/ubuntu/playground
+
+git clone https://github.com/yu3peng/text_analysis_tools.git
+
+cd text_analysis_tools && pip install -r requirements.txt
+
 # 目录
 - test_data: 测试数据
 - text_analysis_tools: 功能API

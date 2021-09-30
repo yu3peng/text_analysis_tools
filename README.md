@@ -8,6 +8,7 @@
 ### sudo apt-get install python3.7-dev
 ### git clone https://github.com/yu3peng/text_analysis_tools.git
 ### cd text_analysis_tools && pip install -r requirements.txt
+### python3 examples.py
 
 # 目录
 - test_data: 测试数据

@@ -6,9 +6,10 @@
 ### sudo ln -s /usr/bin/python3.7 /usr/bin/python3
 ### python3 -m pip install --upgrade pip
 ### sudo apt update
-### sudo apt-get install python3.7-dev
+### sudo apt -y install python3.7-dev
 ### git clone https://github.com/yu3peng/text_analysis_tools.git
 ### cd text_analysis_tools 
+### pip install setuptools
 ### pip install -r requirements.txt
 ### python3 examples.py
 
